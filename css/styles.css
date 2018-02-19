@@ -1,0 +1,50 @@
+img {
+        border-radius:20px;
+}
+    
+body {
+        background-image: url("https://cdn.wallpapersafari.com/2/63/ByYbwX.jpg");
+        color: white;
+        
+}
+input{
+        left:500px;
+        position:absolute;
+        font-size:1.3em;
+        border:none;
+        outline:none; /*hides button outline when clicking on it*/
+        font-weight:bold;
+        color:black;
+        cursor:pointer;
+}
+iframe{
+        padding-top: 150px;
+        padding-left: 50px;
+}
+h1{
+        color: white;
+        font-size: 2em;
+}
+h2{
+        color: white;
+        font-size: 2em;
+}
+h3{
+        color: white;
+        font-size: 2em;
+}
+h4{
+        font-size: 1em;
+}
+h5{
+        font-size: 1em;
+}
+h6{
+        font-size: 1em;
+}
+ul{
+        list-style: square inside url("http://www.gipfeltreffen.at/images/smilies/smi_gitarrist.gif");
+        color: white;
+}
+
+        
